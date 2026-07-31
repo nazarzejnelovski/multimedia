@@ -16,7 +16,7 @@ Kullanıcı ihtiyaçları anketine dayanarak geliştirilmiş, disleksili bireyle
 *   **Teknolojiler:** Angular, Ionic, Java (Android Studio), DigitalOcean ve SQL.
 *   **Özellikler:** Eğitim modülleri, okuma ve yazma egzersizleri ve özel eğitim uzmanlarıyla iletişim.
 *   **Önizleme:**
-    <video src="https://github.com/user-attachments/assets/0ce955e3-0e62-4a59-8251-3c578fd7a17e" width="100%" controls></video>
+    <video src="https://github.com/user-attachments/assets/6cd6dabc-5279-4640-a38d-73a0f7c68b77" width="100%" controls></video>
     *(Not: Proje kavramsal bir prototiptir, canlı bir üretim uygulaması değildir)*
 
 **2. Güneş Enerjisi ve Yeşil Girişim (Sun Energy)**
@@ -27,10 +27,10 @@ Bu benim, hırs ve sağlam bir fikrin yaşa bağlı olmadığını kanıtlamak i
 
 | Video 1: Problematik (PM10) | Video 2: Indiegogo Kampanyası |
 |---|---|
-| <video src="https://github.com/user-attachments/assets/380338ce-2b26-4943-a437-f4d5804a41c4" width="100%" controls></video> | <video src="https://github.com/user-attachments/assets/09ec9ea1-97b8-4e07-9af4-197c7fb8a658" width="100%" controls></video> |
+| <video src="https://github.com/user-attachments/assets/4b55cbfd-43d2-4b89-bcff-c1601df285ae" width="100%" controls></video> | <video src="https://github.com/user-attachments/assets/66dc5fb2-253e-46e8-8c0c-0d0052a31355" width="100%" controls></video> |
 
 **3. Dijital Okuryazarlık ve Eğitim**
 *   **Google Scholar Protokolü:** Bilimsel araştırmalar için dijital filtrelerin (Alıntılanma sayısı, Tüm sürümler) ve otomatik alıntıların kullanımına ilişkin bir kılavuz.
-    <video src="https://github.com/user-attachments/assets/fa60d560-a47f-4c98-b239-c99487c35bd3" width="100%" controls></video>
+    <video src="https://github.com/user-attachments/assets/937aee5d-1acf-4b11-a986-efa1dc37af13" width="100%" controls></video>
 *   **Bilgisayar Ağları:** LAN/WAN temellerini, yönlendiricilerin ve sunucuların rolünü ve veri iletim sürecini açıklayan eğitici bir video.
-    <video src="https://github.com/user-attachments/assets/c7bdeee2-0396-4ee0-87a7-bae285109a44" width="100%" controls></video>
+    <video src="https://github.com/user-attachments/assets/7abc88f8-6195-4045-a96c-8b453c952893" width="100%" controls></video>

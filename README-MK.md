@@ -16,7 +16,7 @@
 *   **Технологии:** Angular, Ionic, Java (Android Studio), DigitalOcean и SQL.
 *   **Функционалности:** Образовни модули, вежби за читање и пишување, и комуникација со дефектолози.
 *   **Преглед:**
-    <video src="https://github.com/user-attachments/assets/0ce955e3-0e62-4a59-8251-3c578fd7a17e" width="100%" controls></video>
+    <video src="https://github.com/user-attachments/assets/6cd6dabc-5279-4640-a38d-73a0f7c68b77" width="100%" controls></video>
     *(Забелешка: Проектот е концептуален прототип, а не жива продукциска апликација)*
 
 **2. Соларна енергија и зелена иницијатива (Sun Energy)**
@@ -27,10 +27,10 @@
 
 | Видео 1: Проблематика (PM10) | Видео 2: Indiegogo Кампања |
 |---|---|
-| <video src="https://github.com/user-attachments/assets/380338ce-2b26-4943-a437-f4d5804a41c4" width="100%" controls></video> | <video src="https://github.com/user-attachments/assets/09ec9ea1-97b8-4e07-9af4-197c7fb8a658" width="100%" controls></video> |
+| <video src="https://github.com/user-attachments/assets/4b55cbfd-43d2-4b89-bcff-c1601df285ae" width="100%" controls></video> | <video src="https://github.com/user-attachments/assets/66dc5fb2-253e-46e8-8c0c-0d0052a31355" width="100%" controls></video> |
 
 **3. Дигитална писменост и образование**
 *   **Google Scholar Протокол:** Водич за користење дигитални филтри (Цитирано од, Сите верзии) и автоматизирани цитати за научни истражувања.
-    <video src="https://github.com/user-attachments/assets/fa60d560-a47f-4c98-b239-c99487c35bd3" width="100%" controls></video>
+    <video src="https://github.com/user-attachments/assets/937aee5d-1acf-4b11-a986-efa1dc37af13" width="100%" controls></video>
 *   **Компјутерски мрежи:** Образовно видео кое ги објаснува основите на LAN/WAN мрежите, улогата на рутерите, серверите и процесот на пренос на податоци.
-    <video src="https://github.com/user-attachments/assets/c7bdeee2-0396-4ee0-87a7-bae285109a44" width="100%" controls></video>
+    <video src="https://github.com/user-attachments/assets/7abc88f8-6195-4045-a96c-8b453c952893" width="100%" controls></video>
